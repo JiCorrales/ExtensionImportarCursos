@@ -2,7 +2,6 @@
 
 Esta es una pequeña extensión de Chrome para facilitar la extracción de datos de la página de matrícula del TEC.
 
-Si necesitas una referencia visual en la carpeta "FotosPasos" está un paso a paso en fotos.
 ## Instalación
 
 1. Abre Chrome y ve a `chrome://extensions/`
