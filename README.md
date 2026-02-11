@@ -17,7 +17,7 @@ Esta es una pequeña extensión de Chrome para facilitar la extracción de datos
 4. Presiona el botón **"Copiar Datos al Portapapeles"**.
 5. Ve al Creador de Horarios, abre "Importar", selecciona "Pegar Código" y presiona Ctrl+V.
 ## Uso 1.2
-1. Ve a la pagina del Expediente Estudia (`https://tecdigital.tec.ac.cr/tda-expediente-estudiantil/https://tecdigital.tec.ac.cr/tda-expediente-estudiantil/`)
+1. Ve a la pagina del Expediente Estudial (`https://tecdigital.tec.ac.cr/tda-expediente-estudiantil/https://tecdigital.tec.ac.cr/tda-expediente-estudiantil/`)
 2. Busca los cursos en la sede, carrera y periodo deseado.
 3. Presiona el botón **"Copiar Datos al Portapapeles"**.
 4. Ve al Creador de Horarios, abre "Importar", selecciona "Pegar Código" y presiona Ctrl+V.
