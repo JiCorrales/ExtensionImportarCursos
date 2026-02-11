@@ -9,10 +9,15 @@ Esta es una pequeña extensión de Chrome para facilitar la extracción de datos
 3. Haz clic en **Cargar descomprimida**.
 4. Selecciona la carpeta `extension` dentro de este proyecto.
 
-## Uso
+## Uso 1.1
 
 1. Ve a la página de matrícula del TEC (`https://tec-appsext.itcr.ac.cr/Matricula/frmMatricula.aspx`).
 2. Haz clic en el ícono de la extensión (el rompecabezas o el ícono si lo fijaste).
 3. Abre los cursos que deseas exportar, para que se carguen los cursos en la página.
 4. Presiona el botón **"Copiar Datos al Portapapeles"**.
 5. Ve al Creador de Horarios, abre "Importar", selecciona "Pegar Código" y presiona Ctrl+V.
+## Uso 1.2
+1. Ve a la pagina del Expediente Estudia (`https://tecdigital.tec.ac.cr/tda-expediente-estudiantil/https://tecdigital.tec.ac.cr/tda-expediente-estudiantil/`)
+2. Busca los cursos en la sede, carrera y periodo deseado.
+3. Presiona el botón **"Copiar Datos al Portapapeles"**.
+4. Ve al Creador de Horarios, abre "Importar", selecciona "Pegar Código" y presiona Ctrl+V.
